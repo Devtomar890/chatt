@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    /* Additional background properties */
+    /* background-size: 35%; */
+    /* background-position: right; */
+    /* background-repeat: no-repeat; */
+    
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    background-color: aquamarine;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .highlights,
+  .help-support,
+  .settings {
+    margin: 30px;
+    background-color: #fff;
+    padding: 2px 20px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(240, 240, 240);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  .image{
+    height: 10vh;
+    margin-top: 10rem;
+  }
+ 
